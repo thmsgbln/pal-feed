@@ -1,6 +1,6 @@
 {
   "source": "PAL / Schwab Live",
-  "timestamp": "2026-10-27T21:06:11.003455+00:00",
+  "timestamp": "2026-10-27T21:07:31.032769+00:00",
   "filters": {
     "max_dte": 60,
     "min_delta": 0.15,
@@ -24,7 +24,7 @@
     {
       "symbol": "SMH",
       "available_contracts": 2,
-      "current_price": 556.32,
+      "current_price": 555.96,
       "candidates": []
     },
     {
@@ -72,7 +72,7 @@
     {
       "symbol": "SOFI",
       "available_contracts": 1,
-      "current_price": 16.41,
+      "current_price": 16.4,
       "candidates": []
     },
     {
