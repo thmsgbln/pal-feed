@@ -1,6 +1,6 @@
 {
   "source": "PAL / Schwab Live",
-  "timestamp": "2026-10-27T22:32:52.812705+00:00",
+  "timestamp": "2026-10-27T22:34:12.071611+00:00",
   "filters": {
     "max_dte": 60,
     "min_delta": 0.15,
@@ -18,7 +18,7 @@
     {
       "symbol": "QQQ",
       "available_contracts": 1,
-      "current_price": 721.69,
+      "current_price": 721.59,
       "candidates": []
     },
     {
