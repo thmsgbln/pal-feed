@@ -1,6 +1,6 @@
 {
   "source": "PAL / Schwab Live",
-  "timestamp": "2026-10-28T18:30:04.233167+00:00",
+  "timestamp": "2026-10-28T18:31:23.392721+00:00",
   "filters": {
     "max_dte": 60,
     "min_delta": 0.15,
@@ -12,31 +12,31 @@
     {
       "symbol": "NVDA",
       "available_contracts": 29,
-      "current_price": 217.025,
+      "current_price": 217.08,
       "candidates": []
     },
     {
       "symbol": "QQQ",
       "available_contracts": 1,
-      "current_price": 722.57,
+      "current_price": 722.9,
       "candidates": []
     },
     {
       "symbol": "SMH",
       "available_contracts": 2,
-      "current_price": 565.98,
+      "current_price": 566.33,
       "candidates": []
     },
     {
       "symbol": "JEPQ",
       "available_contracts": 13,
-      "current_price": 59.85,
+      "current_price": 59.879,
       "candidates": []
     },
     {
       "symbol": "NVDA",
       "available_contracts": 2,
-      "current_price": 217.05,
+      "current_price": 217.13,
       "candidates": []
     },
     {
@@ -48,34 +48,38 @@
     {
       "symbol": "INTC",
       "available_contracts": 1,
-      "current_price": 94.57,
+      "current_price": 94.665,
       "candidates": []
     },
     {
       "symbol": "PBR",
       "available_contracts": 3,
-      "current_price": 22.08,
+      "current_price": 22.075,
       "candidates": []
     },
     {
       "symbol": "ET",
-      "error": "Schwab option chain request failed"
+      "available_contracts": 3,
+      "current_price": 20.625,
+      "candidates": []
     },
     {
       "symbol": "APLD",
       "available_contracts": 2,
-      "current_price": 19.79,
+      "current_price": 19.81,
       "candidates": []
     },
     {
       "symbol": "SOFI",
       "available_contracts": 1,
-      "current_price": 16.855,
+      "current_price": 16.845,
       "candidates": []
     },
     {
       "symbol": "QBTS",
-      "error": "Schwab option chain request failed"
+      "available_contracts": 1,
+      "current_price": 11.645,
+      "candidates": []
     }
   ]
 }
