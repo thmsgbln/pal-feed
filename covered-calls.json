@@ -1,6 +1,6 @@
 {
   "source": "PAL / Schwab Live",
-  "timestamp": "2026-10-28T16:18:30.734880+00:00",
+  "timestamp": "2026-10-28T16:19:49.754125+00:00",
   "filters": {
     "max_dte": 60,
     "min_delta": 0.15,
@@ -12,67 +12,67 @@
     {
       "symbol": "NVDA",
       "available_contracts": 29,
-      "current_price": 217.07,
+      "current_price": 216.99,
       "candidates": []
     },
     {
       "symbol": "QQQ",
       "available_contracts": 1,
-      "current_price": 722.14,
+      "current_price": 722.09,
       "candidates": []
     },
     {
       "symbol": "SMH",
       "available_contracts": 2,
-      "current_price": 565.215,
+      "current_price": 565.03,
       "candidates": []
     },
     {
       "symbol": "JEPQ",
       "available_contracts": 13,
-      "current_price": 59.805,
+      "current_price": 59.809,
       "candidates": []
     },
     {
       "symbol": "NVDA",
       "available_contracts": 2,
-      "current_price": 217.07,
+      "current_price": 216.95,
       "candidates": []
     },
     {
       "symbol": "AXSM",
       "available_contracts": 1,
-      "current_price": 143.85,
+      "current_price": 143.58,
       "candidates": []
     },
     {
       "symbol": "INTC",
       "available_contracts": 1,
-      "current_price": 93.7918,
-      "candidates": []
-    },
-    {
-      "symbol": "PBR",
-      "available_contracts": 3,
-      "current_price": 22.065,
+      "current_price": 93.815,
       "candidates": []
     },
     {
       "symbol": "ET",
       "available_contracts": 3,
-      "current_price": 20.865,
+      "current_price": 20.87,
+      "candidates": []
+    },
+    {
+      "symbol": "PBR",
+      "available_contracts": 3,
+      "current_price": 22.05,
       "candidates": []
     },
     {
       "symbol": "APLD",
       "available_contracts": 2,
-      "current_price": 19.41,
+      "current_price": 19.405,
       "candidates": []
     },
     {
       "symbol": "SOFI",
       "available_contracts": 1,
-      "current_price": 16.85,
+      "current_price": 16.875,
       "candidates": []
     },
     {
