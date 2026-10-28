@@ -1,6 +1,6 @@
 {
   "source": "PAL / Schwab Live",
-  "timestamp": "2026-10-28T16:06:25.773605+00:00",
+  "timestamp": "2026-10-28T16:07:46.168170+00:00",
   "filters": {
     "max_dte": 60,
     "min_delta": 0.15,
@@ -12,73 +12,73 @@
     {
       "symbol": "NVDA",
       "available_contracts": 29,
-      "current_price": 217.415,
+      "current_price": 217.2009,
       "candidates": []
     },
     {
       "symbol": "QQQ",
       "available_contracts": 1,
-      "current_price": 722.41,
+      "current_price": 722.28,
       "candidates": []
     },
     {
       "symbol": "SMH",
       "available_contracts": 2,
-      "current_price": 565.72,
+      "current_price": 565.295,
       "candidates": []
     },
     {
       "symbol": "JEPQ",
       "available_contracts": 13,
-      "current_price": 59.835,
+      "current_price": 59.815,
       "candidates": []
     },
     {
       "symbol": "NVDA",
       "available_contracts": 2,
-      "current_price": 217.3805,
+      "current_price": 217.23,
       "candidates": []
     },
     {
       "symbol": "AXSM",
       "available_contracts": 1,
-      "current_price": 143.935,
+      "current_price": 144.13,
       "candidates": []
     },
     {
       "symbol": "INTC",
       "available_contracts": 1,
-      "current_price": 93.8295,
+      "current_price": 93.765,
       "candidates": []
     },
     {
       "symbol": "ET",
       "available_contracts": 3,
-      "current_price": 20.855,
+      "current_price": 20.86,
       "candidates": []
     },
     {
       "symbol": "PBR",
       "available_contracts": 3,
-      "current_price": 21.99,
+      "current_price": 22.035,
       "candidates": []
     },
     {
       "symbol": "APLD",
       "available_contracts": 2,
-      "current_price": 19.4401,
+      "current_price": 19.43,
       "candidates": []
     },
     {
       "symbol": "SOFI",
       "available_contracts": 1,
-      "current_price": 16.875,
+      "current_price": 16.86,
       "candidates": []
     },
     {
       "symbol": "QBTS",
       "available_contracts": 1,
-      "current_price": 11.64,
+      "current_price": 11.6374,
       "candidates": []
     }
   ]
