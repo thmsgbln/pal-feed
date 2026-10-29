@@ -1,6 +1,6 @@
 {
   "source": "PAL / Schwab Live",
-  "timestamp": "2026-10-29T10:12:38.277129+00:00",
+  "timestamp": "2026-10-29T10:13:57.685466+00:00",
   "filters": {
     "max_dte": 60,
     "min_delta": 0.15,
@@ -18,7 +18,7 @@
     {
       "symbol": "QQQ",
       "available_contracts": 1,
-      "current_price": 718.71,
+      "current_price": 718.6,
       "candidates": []
     },
     {
@@ -30,7 +30,7 @@
     {
       "symbol": "JEPQ",
       "available_contracts": 13,
-      "current_price": 59.72,
+      "current_price": 59.74,
       "candidates": []
     },
     {
@@ -66,7 +66,7 @@
     {
       "symbol": "APLD",
       "available_contracts": 2,
-      "current_price": 19.74,
+      "current_price": 19.68,
       "candidates": []
     },
     {
@@ -78,7 +78,7 @@
     {
       "symbol": "QBTS",
       "available_contracts": 1,
-      "current_price": 11.68,
+      "current_price": 11.66,
       "candidates": []
     }
   ]
