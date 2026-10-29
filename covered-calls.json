@@ -1,6 +1,6 @@
 {
   "source": "PAL / Schwab Live",
-  "timestamp": "2026-10-29T11:22:41.159809+00:00",
+  "timestamp": "2026-10-29T11:23:59.906728+00:00",
   "filters": {
     "max_dte": 60,
     "min_delta": 0.15,
@@ -18,7 +18,7 @@
     {
       "symbol": "QQQ",
       "available_contracts": 1,
-      "current_price": 718.87,
+      "current_price": 719.0,
       "candidates": []
     },
     {
@@ -52,15 +52,15 @@
       "candidates": []
     },
     {
-      "symbol": "PBR",
+      "symbol": "ET",
       "available_contracts": 3,
-      "current_price": 21.9,
+      "current_price": 20.8,
       "candidates": []
     },
     {
-      "symbol": "ET",
+      "symbol": "PBR",
       "available_contracts": 3,
-      "current_price": 20.72,
+      "current_price": 21.9,
       "candidates": []
     },
     {
@@ -72,7 +72,7 @@
     {
       "symbol": "SOFI",
       "available_contracts": 1,
-      "current_price": 16.84,
+      "current_price": 16.85,
       "candidates": []
     },
     {
