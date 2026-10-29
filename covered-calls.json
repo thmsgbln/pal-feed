@@ -1,6 +1,6 @@
 {
   "source": "PAL / Schwab Live",
-  "timestamp": "2026-10-29T11:47:30.288591+00:00",
+  "timestamp": "2026-10-29T11:48:48.216344+00:00",
   "filters": {
     "max_dte": 60,
     "min_delta": 0.15,
@@ -24,7 +24,7 @@
     {
       "symbol": "SMH",
       "available_contracts": 2,
-      "current_price": 558.96,
+      "current_price": 558.67,
       "candidates": []
     },
     {
@@ -66,7 +66,7 @@
     {
       "symbol": "APLD",
       "available_contracts": 2,
-      "current_price": 19.66,
+      "current_price": 19.65,
       "candidates": []
     },
     {
@@ -78,7 +78,7 @@
     {
       "symbol": "QBTS",
       "available_contracts": 1,
-      "current_price": 11.65,
+      "current_price": 11.62,
       "candidates": []
     }
   ]
