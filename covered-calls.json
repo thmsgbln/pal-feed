@@ -1,6 +1,6 @@
 {
   "source": "PAL / Schwab Live",
-  "timestamp": "2026-10-29T16:30:04.465647+00:00",
+  "timestamp": "2026-10-29T16:31:22.520177+00:00",
   "filters": {
     "max_dte": 60,
     "min_delta": 0.15,
@@ -12,31 +12,31 @@
     {
       "symbol": "NVDA",
       "available_contracts": 29,
-      "current_price": 213.58,
+      "current_price": 213.535,
       "candidates": []
     },
     {
       "symbol": "QQQ",
       "available_contracts": 1,
-      "current_price": 715.5,
+      "current_price": 715.32,
       "candidates": []
     },
     {
       "symbol": "SMH",
       "available_contracts": 2,
-      "current_price": 562.4,
+      "current_price": 562.12,
       "candidates": []
     },
     {
       "symbol": "JEPQ",
       "available_contracts": 13,
-      "current_price": 59.39,
+      "current_price": 59.3751,
       "candidates": []
     },
     {
       "symbol": "NVDA",
       "available_contracts": 2,
-      "current_price": 213.55,
+      "current_price": 213.535,
       "candidates": []
     },
     {
@@ -48,21 +48,25 @@
     {
       "symbol": "INTC",
       "available_contracts": 1,
-      "current_price": 92.33,
+      "current_price": 92.2414,
       "candidates": []
     },
     {
       "symbol": "ET",
-      "error": "Schwab option chain request failed"
+      "available_contracts": 3,
+      "current_price": 20.765,
+      "candidates": []
     },
     {
       "symbol": "PBR",
-      "error": "Schwab option chain request failed"
+      "available_contracts": 3,
+      "current_price": 21.645,
+      "candidates": []
     },
     {
       "symbol": "APLD",
       "available_contracts": 2,
-      "current_price": 19.98,
+      "current_price": 19.965,
       "candidates": []
     },
     {
@@ -74,7 +78,7 @@
     {
       "symbol": "QBTS",
       "available_contracts": 1,
-      "current_price": 11.725,
+      "current_price": 11.7101,
       "candidates": []
     }
   ]
