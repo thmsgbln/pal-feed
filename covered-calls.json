@@ -1,6 +1,6 @@
 {
   "source": "PAL / Schwab Live",
-  "timestamp": "2026-10-29T19:26:14.050962+00:00",
+  "timestamp": "2026-10-29T19:27:33.862299+00:00",
   "filters": {
     "max_dte": 60,
     "min_delta": 0.15,
@@ -12,19 +12,19 @@
     {
       "symbol": "NVDA",
       "available_contracts": 29,
-      "current_price": 212.945,
+      "current_price": 212.96,
       "candidates": []
     },
     {
       "symbol": "QQQ",
       "available_contracts": 1,
-      "current_price": 713.49,
+      "current_price": 713.44,
       "candidates": []
     },
     {
       "symbol": "SMH",
       "available_contracts": 2,
-      "current_price": 558.8547,
+      "current_price": 558.58,
       "candidates": []
     },
     {
@@ -36,25 +36,25 @@
     {
       "symbol": "NVDA",
       "available_contracts": 2,
-      "current_price": 212.94,
+      "current_price": 212.89,
       "candidates": []
     },
     {
       "symbol": "AXSM",
       "available_contracts": 1,
-      "current_price": 141.715,
+      "current_price": 141.89,
       "candidates": []
     },
     {
       "symbol": "CRDO",
       "available_contracts": 1,
-      "current_price": 163.2096,
+      "current_price": 163.1837,
       "candidates": []
     },
     {
       "symbol": "INTC",
       "available_contracts": 1,
-      "current_price": 91.44,
+      "current_price": 91.3665,
       "candidates": []
     },
     {
@@ -66,25 +66,25 @@
     {
       "symbol": "PBR",
       "available_contracts": 3,
-      "current_price": 21.835,
+      "current_price": 21.855,
       "candidates": []
     },
     {
       "symbol": "APLD",
       "available_contracts": 2,
-      "current_price": 19.4,
+      "current_price": 19.36,
       "candidates": []
     },
     {
       "symbol": "SOFI",
       "available_contracts": 1,
-      "current_price": 17.545,
+      "current_price": 17.54,
       "candidates": []
     },
     {
       "symbol": "QBTS",
       "available_contracts": 1,
-      "current_price": 11.495,
+      "current_price": 11.485,
       "candidates": []
     }
   ]
