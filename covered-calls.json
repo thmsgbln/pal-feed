@@ -1,6 +1,6 @@
 {
   "source": "PAL / Schwab Live",
-  "timestamp": "2026-10-30T17:57:38.274900+00:00",
+  "timestamp": "2026-10-30T17:58:56.809876+00:00",
   "filters": {
     "max_dte": 60,
     "min_delta": 0.15,
@@ -12,43 +12,43 @@
     {
       "symbol": "NVDA",
       "available_contracts": 29,
-      "current_price": 202.6901,
+      "current_price": 202.85,
       "candidates": []
     },
     {
       "symbol": "QQQ",
       "available_contracts": 1,
-      "current_price": 687.15,
+      "current_price": 687.35,
       "candidates": []
     },
     {
       "symbol": "SMH",
       "available_contracts": 2,
-      "current_price": 515.96,
+      "current_price": 516.36,
       "candidates": []
     },
     {
       "symbol": "JEPQ",
       "available_contracts": 13,
-      "current_price": 57.265,
+      "current_price": 57.2799,
       "candidates": []
     },
     {
       "symbol": "NVDA",
       "available_contracts": 2,
-      "current_price": 202.72,
+      "current_price": 202.834,
       "candidates": []
     },
     {
       "symbol": "AXSM",
       "available_contracts": 1,
-      "current_price": 145.1883,
+      "current_price": 144.655,
       "candidates": []
     },
     {
       "symbol": "CRDO",
       "available_contracts": 1,
-      "current_price": 145.72,
+      "current_price": 145.82,
       "candidates": []
     },
     {
@@ -60,13 +60,13 @@
     {
       "symbol": "PBR",
       "available_contracts": 3,
-      "current_price": 21.975,
+      "current_price": 21.965,
       "candidates": []
     },
     {
       "symbol": "INTC",
       "available_contracts": 1,
-      "current_price": 63.9425,
+      "current_price": 63.9019,
       "candidates": []
     },
     {
@@ -78,13 +78,13 @@
     {
       "symbol": "SOFI",
       "available_contracts": 1,
-      "current_price": 16.555,
+      "current_price": 16.5426,
       "candidates": []
     },
     {
       "symbol": "QBTS",
       "available_contracts": 1,
-      "current_price": 10.305,
+      "current_price": 10.315,
       "candidates": []
     }
   ]
