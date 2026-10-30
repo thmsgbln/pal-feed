@@ -1,6 +1,6 @@
 {
   "source": "PAL / Schwab Live",
-  "timestamp": "2026-10-30T17:03:16.625908+00:00",
+  "timestamp": "2026-10-30T17:04:34.960867+00:00",
   "filters": {
     "max_dte": 60,
     "min_delta": 0.15,
@@ -12,19 +12,19 @@
     {
       "symbol": "NVDA",
       "available_contracts": 29,
-      "current_price": 203.92,
+      "current_price": 203.91,
       "candidates": []
     },
     {
       "symbol": "QQQ",
       "available_contracts": 1,
-      "current_price": 690.21,
+      "current_price": 690.25,
       "candidates": []
     },
     {
       "symbol": "SMH",
       "available_contracts": 2,
-      "current_price": 519.25,
+      "current_price": 519.14,
       "candidates": []
     },
     {
@@ -36,19 +36,19 @@
     {
       "symbol": "NVDA",
       "available_contracts": 2,
-      "current_price": 203.94,
+      "current_price": 203.9359,
       "candidates": []
     },
     {
       "symbol": "AXSM",
       "available_contracts": 1,
-      "current_price": 143.475,
+      "current_price": 143.44,
       "candidates": []
     },
     {
       "symbol": "CRDO",
       "available_contracts": 1,
-      "current_price": 146.7925,
+      "current_price": 147.14,
       "candidates": []
     },
     {
@@ -60,31 +60,31 @@
     {
       "symbol": "ET",
       "available_contracts": 3,
-      "current_price": 20.9283,
+      "current_price": 20.92,
       "candidates": []
     },
     {
       "symbol": "INTC",
       "available_contracts": 1,
-      "current_price": 64.6101,
+      "current_price": 64.555,
       "candidates": []
     },
     {
       "symbol": "APLD",
       "available_contracts": 2,
-      "current_price": 17.4605,
+      "current_price": 17.4539,
       "candidates": []
     },
     {
       "symbol": "SOFI",
       "available_contracts": 1,
-      "current_price": 16.725,
+      "current_price": 16.715,
       "candidates": []
     },
     {
       "symbol": "QBTS",
       "available_contracts": 1,
-      "current_price": 10.435,
+      "current_price": 10.4176,
       "candidates": []
     }
   ]
