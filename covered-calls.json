@@ -1,6 +1,6 @@
 {
   "source": "PAL / Schwab Live",
-  "timestamp": "2026-10-30T14:57:30.723639+00:00",
+  "timestamp": "2026-10-30T14:58:51.423877+00:00",
   "filters": {
     "max_dte": 60,
     "min_delta": 0.15,
@@ -12,31 +12,31 @@
     {
       "symbol": "NVDA",
       "available_contracts": 29,
-      "current_price": 206.68,
+      "current_price": 206.85,
       "candidates": []
     },
     {
       "symbol": "QQQ",
       "available_contracts": 1,
-      "current_price": 696.075,
+      "current_price": 696.48,
       "candidates": []
     },
     {
       "symbol": "SMH",
       "available_contracts": 2,
-      "current_price": 528.385,
+      "current_price": 528.88,
       "candidates": []
     },
     {
       "symbol": "JEPQ",
       "available_contracts": 13,
-      "current_price": 57.99,
+      "current_price": 58.02,
       "candidates": []
     },
     {
       "symbol": "NVDA",
       "available_contracts": 2,
-      "current_price": 206.6692,
+      "current_price": 206.915,
       "candidates": []
     },
     {
@@ -48,43 +48,43 @@
     {
       "symbol": "CRDO",
       "available_contracts": 1,
-      "current_price": 152.815,
+      "current_price": 152.79,
       "candidates": []
     },
     {
       "symbol": "INTC",
       "available_contracts": 1,
-      "current_price": 66.2,
+      "current_price": 66.355,
       "candidates": []
     },
     {
       "symbol": "PBR",
       "available_contracts": 3,
-      "current_price": 22.195,
+      "current_price": 22.205,
       "candidates": []
     },
     {
       "symbol": "ET",
       "available_contracts": 3,
-      "current_price": 20.855,
+      "current_price": 20.825,
       "candidates": []
     },
     {
       "symbol": "APLD",
       "available_contracts": 2,
-      "current_price": 17.8,
+      "current_price": 17.825,
       "candidates": []
     },
     {
       "symbol": "SOFI",
       "available_contracts": 1,
-      "current_price": 16.85,
+      "current_price": 16.875,
       "candidates": []
     },
     {
       "symbol": "QBTS",
       "available_contracts": 1,
-      "current_price": 10.715,
+      "current_price": 10.708,
       "candidates": []
     }
   ]
