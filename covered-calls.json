@@ -1,6 +1,6 @@
 {
   "source": "PAL / Schwab Live",
-  "timestamp": "2026-10-30T05:29:17.636824+00:00",
+  "timestamp": "2026-10-30T05:30:35.975382+00:00",
   "filters": {
     "max_dte": 60,
     "min_delta": 0.15,
@@ -66,7 +66,7 @@
     {
       "symbol": "PBR",
       "available_contracts": 3,
-      "current_price": 21.92,
+      "current_price": 21.9,
       "candidates": []
     },
     {
