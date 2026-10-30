@@ -1,6 +1,6 @@
 {
   "source": "PAL / Schwab Live",
-  "timestamp": "2026-10-30T21:17:52.769254+00:00",
+  "timestamp": "2026-10-30T21:19:11.495430+00:00",
   "filters": {
     "max_dte": 60,
     "min_delta": 0.15,
@@ -66,7 +66,7 @@
     {
       "symbol": "INTC",
       "available_contracts": 1,
-      "current_price": 65.12,
+      "current_price": 65.09,
       "candidates": []
     },
     {
