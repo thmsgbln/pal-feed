@@ -1,6 +1,6 @@
 {
   "source": "PAL / Schwab Live",
-  "timestamp": "2026-10-30T17:56:19.499818+00:00",
+  "timestamp": "2026-10-30T17:57:38.274900+00:00",
   "filters": {
     "max_dte": 60,
     "min_delta": 0.15,
@@ -12,43 +12,43 @@
     {
       "symbol": "NVDA",
       "available_contracts": 29,
-      "current_price": 202.69,
+      "current_price": 202.6901,
       "candidates": []
     },
     {
       "symbol": "QQQ",
       "available_contracts": 1,
-      "current_price": 687.3605,
+      "current_price": 687.15,
       "candidates": []
     },
     {
       "symbol": "SMH",
       "available_contracts": 2,
-      "current_price": 516.3439,
+      "current_price": 515.96,
       "candidates": []
     },
     {
       "symbol": "JEPQ",
       "available_contracts": 13,
-      "current_price": 57.27,
+      "current_price": 57.265,
       "candidates": []
     },
     {
       "symbol": "NVDA",
       "available_contracts": 2,
-      "current_price": 202.7301,
+      "current_price": 202.72,
       "candidates": []
     },
     {
       "symbol": "AXSM",
       "available_contracts": 1,
-      "current_price": 143.95,
+      "current_price": 145.1883,
       "candidates": []
     },
     {
       "symbol": "CRDO",
       "available_contracts": 1,
-      "current_price": 145.815,
+      "current_price": 145.72,
       "candidates": []
     },
     {
@@ -60,19 +60,19 @@
     {
       "symbol": "PBR",
       "available_contracts": 3,
-      "current_price": 21.97,
+      "current_price": 21.975,
       "candidates": []
     },
     {
       "symbol": "INTC",
       "available_contracts": 1,
-      "current_price": 64.01,
+      "current_price": 63.9425,
       "candidates": []
     },
     {
       "symbol": "APLD",
       "available_contracts": 2,
-      "current_price": 17.315,
+      "current_price": 17.31,
       "candidates": []
     },
     {
@@ -84,7 +84,7 @@
     {
       "symbol": "QBTS",
       "available_contracts": 1,
-      "current_price": 10.315,
+      "current_price": 10.305,
       "candidates": []
     }
   ]
