@@ -1,6 +1,6 @@
 {
   "source": "PAL / Schwab Live",
-  "timestamp": "2026-10-29T23:59:30.434971+00:00",
+  "timestamp": "2026-10-30T00:00:48.015172+00:00",
   "filters": {
     "max_dte": 60,
     "min_delta": 0.15,
@@ -18,7 +18,7 @@
     {
       "symbol": "QQQ",
       "available_contracts": 1,
-      "current_price": 704.44,
+      "current_price": 704.38,
       "candidates": []
     },
     {
@@ -54,13 +54,13 @@
     {
       "symbol": "INTC",
       "available_contracts": 1,
-      "current_price": 70.99,
+      "current_price": 70.87,
       "candidates": []
     },
     {
       "symbol": "ET",
       "available_contracts": 3,
-      "current_price": 20.9,
+      "current_price": 20.88,
       "candidates": []
     },
     {
@@ -72,7 +72,7 @@
     {
       "symbol": "APLD",
       "available_contracts": 2,
-      "current_price": 18.7,
+      "current_price": 18.75,
       "candidates": []
     },
     {
