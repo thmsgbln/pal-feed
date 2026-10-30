@@ -1,6 +1,6 @@
 {
   "source": "PAL / Schwab Live",
-  "timestamp": "2026-10-30T08:54:24.407923+00:00",
+  "timestamp": "2026-10-30T08:55:42.541143+00:00",
   "filters": {
     "max_dte": 60,
     "min_delta": 0.15,
@@ -12,19 +12,19 @@
     {
       "symbol": "NVDA",
       "available_contracts": 29,
-      "current_price": 208.34,
+      "current_price": 208.5,
       "candidates": []
     },
     {
       "symbol": "QQQ",
       "available_contracts": 1,
-      "current_price": 701.47,
+      "current_price": 701.83,
       "candidates": []
     },
     {
       "symbol": "SMH",
       "available_contracts": 2,
-      "current_price": 537.85,
+      "current_price": 538.4,
       "candidates": []
     },
     {
@@ -36,7 +36,7 @@
     {
       "symbol": "NVDA",
       "available_contracts": 2,
-      "current_price": 208.33,
+      "current_price": 208.5,
       "candidates": []
     },
     {
@@ -54,7 +54,7 @@
     {
       "symbol": "INTC",
       "available_contracts": 1,
-      "current_price": 67.65,
+      "current_price": 67.73,
       "candidates": []
     },
     {
@@ -66,25 +66,25 @@
     {
       "symbol": "PBR",
       "available_contracts": 3,
-      "current_price": 22.0,
+      "current_price": 22.01,
       "candidates": []
     },
     {
       "symbol": "APLD",
       "available_contracts": 2,
-      "current_price": 18.5,
+      "current_price": 18.6,
       "candidates": []
     },
     {
       "symbol": "SOFI",
       "available_contracts": 1,
-      "current_price": 17.01,
+      "current_price": 17.02,
       "candidates": []
     },
     {
       "symbol": "QBTS",
       "available_contracts": 1,
-      "current_price": 11.12,
+      "current_price": 11.15,
       "candidates": []
     }
   ]
