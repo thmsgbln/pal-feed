@@ -1,6 +1,6 @@
 {
   "source": "PAL / Schwab Live",
-  "timestamp": "2026-10-30T21:29:40.859232+00:00",
+  "timestamp": "2026-10-30T21:30:57.782552+00:00",
   "filters": {
     "max_dte": 60,
     "min_delta": 0.15,
@@ -24,7 +24,7 @@
     {
       "symbol": "SMH",
       "available_contracts": 2,
-      "current_price": 523.6,
+      "current_price": 524.0,
       "candidates": []
     },
     {
@@ -66,13 +66,13 @@
     {
       "symbol": "INTC",
       "available_contracts": 1,
-      "current_price": 65.04,
+      "current_price": 65.03,
       "candidates": []
     },
     {
       "symbol": "APLD",
       "available_contracts": 2,
-      "current_price": 17.84,
+      "current_price": 17.85,
       "candidates": []
     },
     {
