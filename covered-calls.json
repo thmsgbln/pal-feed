@@ -1,6 +1,6 @@
 {
   "source": "PAL / Schwab Live",
-  "timestamp": "2026-10-30T21:36:10.395443+00:00",
+  "timestamp": "2026-10-30T21:37:28.914870+00:00",
   "filters": {
     "max_dte": 60,
     "min_delta": 0.15,
@@ -36,7 +36,7 @@
     {
       "symbol": "NVDA",
       "available_contracts": 2,
-      "current_price": 205.01,
+      "current_price": 205.0,
       "candidates": []
     },
     {
