@@ -1,6 +1,6 @@
 {
   "source": "PAL / Schwab Live",
-  "timestamp": "2026-11-02T16:01:43.582174+00:00",
+  "timestamp": "2026-11-02T16:03:09.694626+00:00",
   "filters": {
     "max_dte": 60,
     "min_delta": 0.15,
@@ -12,37 +12,37 @@
     {
       "symbol": "NVDA",
       "available_contracts": 29,
-      "current_price": 207.32,
+      "current_price": 207.47,
       "candidates": []
     },
     {
       "symbol": "QQQ",
       "available_contracts": 1,
-      "current_price": 695.75,
+      "current_price": 695.52,
       "candidates": []
     },
     {
       "symbol": "SMH",
       "available_contracts": 2,
-      "current_price": 526.34,
+      "current_price": 526.475,
       "candidates": []
     },
     {
       "symbol": "JEPQ",
       "available_contracts": 13,
-      "current_price": 57.405,
+      "current_price": 57.385,
       "candidates": []
     },
     {
       "symbol": "NVDA",
       "available_contracts": 2,
-      "current_price": 207.34,
+      "current_price": 207.475,
       "candidates": []
     },
     {
       "symbol": "AXSM",
       "available_contracts": 1,
-      "current_price": 124.08,
+      "current_price": 123.605,
       "candidates": []
     },
     {
@@ -54,25 +54,25 @@
     {
       "symbol": "ET",
       "available_contracts": 3,
-      "current_price": 20.635,
+      "current_price": 20.6261,
       "candidates": []
     },
     {
       "symbol": "PBR",
       "available_contracts": 3,
-      "current_price": 21.515,
+      "current_price": 21.505,
       "candidates": []
     },
     {
       "symbol": "INTC",
       "available_contracts": 1,
-      "current_price": 63.5702,
+      "current_price": 63.5617,
       "candidates": []
     },
     {
       "symbol": "APLD",
       "available_contracts": 2,
-      "current_price": 17.495,
+      "current_price": 17.47,
       "candidates": []
     },
     {
@@ -84,7 +84,7 @@
     {
       "symbol": "QBTS",
       "available_contracts": 1,
-      "current_price": 10.7402,
+      "current_price": 10.735,
       "candidates": []
     }
   ]
