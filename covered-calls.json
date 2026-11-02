@@ -1,6 +1,6 @@
 {
   "source": "PAL / Schwab Live",
-  "timestamp": "2026-11-02T12:38:38.869657+00:00",
+  "timestamp": "2026-11-02T12:39:58.640322+00:00",
   "filters": {
     "max_dte": 60,
     "min_delta": 0.15,
@@ -12,13 +12,13 @@
     {
       "symbol": "NVDA",
       "available_contracts": 29,
-      "current_price": 206.6,
+      "current_price": 206.62,
       "candidates": []
     },
     {
       "symbol": "QQQ",
       "available_contracts": 1,
-      "current_price": 694.89,
+      "current_price": 694.97,
       "candidates": []
     },
     {
@@ -30,7 +30,7 @@
     {
       "symbol": "JEPQ",
       "available_contracts": 13,
-      "current_price": 57.49,
+      "current_price": 57.5,
       "candidates": []
     },
     {
@@ -42,13 +42,13 @@
     {
       "symbol": "AXSM",
       "available_contracts": 1,
-      "current_price": 138.0,
+      "current_price": 140.0,
       "candidates": []
     },
     {
       "symbol": "CRDO",
       "available_contracts": 1,
-      "current_price": 153.0,
+      "current_price": 154.0,
       "candidates": []
     },
     {
@@ -60,7 +60,7 @@
     {
       "symbol": "INTC",
       "available_contracts": 1,
-      "current_price": 64.99,
+      "current_price": 65.04,
       "candidates": []
     },
     {
@@ -72,7 +72,7 @@
     {
       "symbol": "APLD",
       "available_contracts": 2,
-      "current_price": 18.11,
+      "current_price": 18.12,
       "candidates": []
     },
     {
