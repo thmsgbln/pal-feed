@@ -1,6 +1,6 @@
 {
   "source": "PAL / Schwab Live",
-  "timestamp": "2026-11-02T18:49:45.606110+00:00",
+  "timestamp": "2026-11-02T18:51:06.350269+00:00",
   "filters": {
     "max_dte": 60,
     "min_delta": 0.15,
@@ -12,19 +12,19 @@
     {
       "symbol": "NVDA",
       "available_contracts": 29,
-      "current_price": 205.92,
+      "current_price": 205.85,
       "candidates": []
     },
     {
       "symbol": "QQQ",
       "available_contracts": 1,
-      "current_price": 689.65,
+      "current_price": 689.665,
       "candidates": []
     },
     {
       "symbol": "SMH",
       "available_contracts": 2,
-      "current_price": 517.205,
+      "current_price": 517.19,
       "candidates": []
     },
     {
@@ -36,37 +36,37 @@
     {
       "symbol": "NVDA",
       "available_contracts": 2,
-      "current_price": 205.85,
+      "current_price": 205.86,
       "candidates": []
     },
     {
       "symbol": "AXSM",
       "available_contracts": 1,
-      "current_price": 130.97,
+      "current_price": 130.545,
       "candidates": []
     },
     {
       "symbol": "CRDO",
       "available_contracts": 1,
-      "current_price": 143.536,
+      "current_price": 143.46,
       "candidates": []
     },
     {
       "symbol": "ET",
       "available_contracts": 3,
-      "current_price": 20.44,
+      "current_price": 20.45,
       "candidates": []
     },
     {
       "symbol": "PBR",
       "available_contracts": 3,
-      "current_price": 21.15,
+      "current_price": 21.145,
       "candidates": []
     },
     {
       "symbol": "INTC",
       "available_contracts": 1,
-      "current_price": 61.465,
+      "current_price": 61.4401,
       "candidates": []
     },
     {
@@ -78,13 +78,13 @@
     {
       "symbol": "SOFI",
       "available_contracts": 1,
-      "current_price": 17.025,
+      "current_price": 17.035,
       "candidates": []
     },
     {
       "symbol": "QBTS",
       "available_contracts": 1,
-      "current_price": 10.33,
+      "current_price": 10.3201,
       "candidates": []
     }
   ]
